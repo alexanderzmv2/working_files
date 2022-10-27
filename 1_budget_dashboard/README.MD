@@ -10,5 +10,5 @@
 
 | Файл | Описание | Стек технологий | Дополнительно | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| 1_budget_dashboard_example.xlsm | Тестовый образец дашборда по расходам департамента | `Excel`,`VBA`,`SQL` | Сохранять в любом для вас месте|
-| 1_budget_dashboard.7z | Содержит тестовые базы данных и вспомогательные данные | `Jupyter`,`Pandas` | Распаковать в папку "C:\dht_projects\\" |
+| [1_budget_dashboard_example.xlsm](https://github.com/alexanderzmv2/working_files/raw/main/1_budget_dashboard/1_budget_dashboard_example.xlsm) | Тестовый образец дашборда по расходам департамента | `Excel`,`VBA`,`SQL` | Сохранять в любом для вас месте|
+| [1_budget_dashboard.7z](https://github.com/alexanderzmv2/working_files/raw/main/1_budget_dashboard/1_budget_dashboard.7z) | Содержит тестовые базы данных и вспомогательные данные | `Jupyter`,`Pandas` | Распаковать в папку "C:\dht_projects\\" |
