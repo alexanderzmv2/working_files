@@ -11,6 +11,6 @@
 
 | Файл | Описание | Стек технологий | Дополнительно | 
 | :---------------------- | :---------------------- | :---------------------- | :---------------------- |
-| [2_re_dashboard_example.xlsm](https://github.com/alexanderzmv2/working_files/raw/main/2_real_estate_dashboard/2_re_dashboard_example.xlsm) | Тестовый образец дашборда по объектам недвижимости | `Excel`,`VBA`,`SQL` | Сохранять в любом для вас месте|
 | [2_re_dashboard.7z](https://github.com/alexanderzmv2/working_files/raw/main/2_real_estate_dashboard/2_re_dashboard.7z) | Содержит тестовые базы данных | `MS Access` | Распаковать в папку "C:\dht_projects\\" |
+| [2_re_dashboard_example.xlsm](https://github.com/alexanderzmv2/working_files/raw/main/2_real_estate_dashboard/2_re_dashboard_example.xlsm) | Тестовый образец дашборда по объектам недвижимости | `Excel`,`VBA`,`SQL` | Сохранять в любом для вас месте. После запуска необходимо нажать "Включить содержимое", чтобы работали макросы|
 | [2_real_estate_proj.ipynb](https://github.com/alexanderzmv2/working_files/raw/main/2_real_estate_dashboard/2_real_estate_proj.ipynb) | Скрипты для обработки больших массивов данных рынка | `Jupyter` | Скрипты для ознакомления |
